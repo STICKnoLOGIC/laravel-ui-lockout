@@ -10,6 +10,10 @@ A simple Laravel package that shows a lockout screen to block users from accessi
 
 **Works only with Laravel 10.x upto latest** 
 
+## ads 
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=sticknologic/laravel-ui-lockout@github)](https://gitads.dev/v1/ad-track?source=sticknologic/laravel-ui-lockout@github)
+
+
 ## Project Use Cases
 
 This package is perfect for:
