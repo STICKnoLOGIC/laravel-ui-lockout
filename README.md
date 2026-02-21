@@ -373,3 +373,4 @@ Website: https://sticknologic.is-a.dev
 ## License
 
 This package is open-source software licensed under the [MIT License](LICENSE).
+<!-- GitAds-Verify: 9V2BN5V58N9HPQLZSJCT3HRCEPI2FTOS -->
